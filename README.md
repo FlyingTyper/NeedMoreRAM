@@ -1,3 +1,3 @@
-# RamHogger
+# Need RAM
 Spams tabs until your PC crashes.
-Credit - https://killrebeest.github.io/
+Credit:Woooshy
